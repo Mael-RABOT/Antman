@@ -22,7 +22,7 @@
 &emsp;&emsp;&emsp;&emsp;``*.ppm : 3``
 
 ## EXAMPLES
-&emsp;&emsp;&emsp;&emsp;./antman -h
+&emsp;&emsp;&emsp;&emsp;./antman -h<br/>
 &emsp;&emsp;&emsp;&emsp;./antman my_file.txt 1
 
 ## REPORTING BUG
@@ -55,7 +55,7 @@
 &emsp;&emsp;&emsp;&emsp;``*.ppm : 3``
 
 ## EXAMPLES
-&emsp;&emsp;&emsp;&emsp;./giantman -h
+&emsp;&emsp;&emsp;&emsp;./giantman -h<br/>
 &emsp;&emsp;&emsp;&emsp;./giantman my_file.txt 1
 
 ## REPORTING BUG
