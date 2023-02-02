@@ -9,11 +9,11 @@
 &emsp;&emsp;path_to_file : the path to the file to be compressed
 &emsp;&emsp;filetype    : the filetype (see below)<br/>
 ###### &emsp;&emsp;&emsp;&emsp;OPTIONS :
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-h
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-h<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;display the help
 
 ###### &emsp;&emsp;&emsp;&emsp;EXIT STATUS:
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0   if OK,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0   if OK,<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;84  if problems.
 
 ## FILETYPE
@@ -42,11 +42,11 @@
 &emsp;&emsp;filetype    : the filetype (see below)
 
 ###### &emsp;&emsp;&emsp;&emsp;OPTIONS :
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-h
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-h<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;display the help
 
 ###### &emsp;&emsp;&emsp;&emsp;EXIT STATUS:
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0   if OK,
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0   if OK,<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;84  if problems.
 
 ## FILETYPE
@@ -60,5 +60,5 @@
 
 ## REPORTING BUG
 &emsp;&emsp;&emsp;&emsp;Their is no bug
-
+<br/><br/><br/>
 <img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech Technology Logo" title="Epitech Technology Logo" width=300 height=100>
